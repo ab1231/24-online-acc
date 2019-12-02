@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Life Is HARD :(`,"http://twitch.tv/PotatoManIsHere")
+client.user.setGame(`Minecraft :(`,"c:/PROGRAM FILES/JAVA/JRE1.8.0_231/BIN/JAVAW.EXE")
 client.user.setStatus("dnd")
 });
 
